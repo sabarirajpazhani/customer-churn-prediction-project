@@ -32,7 +32,7 @@ git clone https://github.com/sabarirajpazhani/customer-churn-prediction.git
 
 **Dataset:**
 
-The dataset used for this project is available in the `https://www.kaggle.com/datasets/blastchar/telco-customer-churn` directory. It includes detailed customer profiles, services, and churn status.
+The dataset used for this project is available in the https://www.kaggle.com/datasets/blastchar/telco-customer-churn directory. It includes detailed customer profiles, services, and churn status.
 
 **Machine Learning Models:**
 
