@@ -6,17 +6,17 @@ Customer Churn Prediction Using Machine Learning.
 
 <strong>Name</strong>            :	P. Sabari Raj <br>
 
-Reg. No	           :  410121104039
+<strong>Reg. No</strong>         :  410121104039
 
-NM ID              :	Au410121104029
+<strong>NM ID</strong>           :	Au410121104029
 
-Department	       :  CSE-III
+<strong>Department</strong>	     :  CSE-III
 
-Domain	           :  Data Analytics with Cognos
+<strong>Domain</strong>	         :  Data Analytics with Cognos
 
-Project Title	     :  Customer Churn Prediction
+<strong>Project Title</strong>	 :  Customer Churn Prediction
 
-College	           :  4101-Adhi College of Engineering and Technology, Kanchipuram
+<strong>College</strong>	       :  4101-Adhi College of Engineering and Technology, Kanchipuram
 
 
 # Telco Customer Churn Prediction
