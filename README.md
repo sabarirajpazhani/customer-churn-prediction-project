@@ -4,7 +4,7 @@ Customer Churn Prediction Using Machine Learning.
 ![11668571_20943645](https://github.com/sabarirajpazhani/customer-churn-prediction-project/assets/143380285/a89bbb4b-4522-46de-a15d-5f5f926e89cb)
 
 
-Name               :	P. Sabari Raj <br>
+**Name**               :	P. Sabari Raj <br>
 
 Reg. No	           :  410121104039
 
