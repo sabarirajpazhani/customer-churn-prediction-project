@@ -1,7 +1,8 @@
 # customer-churn-prediction
 Customer Churn Prediction Using Machine Learning.
 
-![11668571_20943645](https://github.com/sabarirajpazhani/customer-churn-prediction-project/assets/143380285/a89bbb4b-4522-46de-a15d-5f5f926e89cb)
+![21727022_6505894](https://github.com/sabarirajpazhani/customer-churn-prediction-project/assets/143380285/d88bdde0-e08a-447d-8489-c7f7847833d6)
+
 
 
 <strong>Name</strong>            :	P. Sabari Raj <br>
